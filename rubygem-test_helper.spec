@@ -4,7 +4,7 @@
 #
 Name     : rubygem-test_helper
 Version  : 0.0.1
-Release  : 2
+Release  : 3
 URL      : https://rubygems.org/downloads/test_helper-0.0.1.gem
 Source0  : https://rubygems.org/downloads/test_helper-0.0.1.gem
 Summary  : No detailed summary available
